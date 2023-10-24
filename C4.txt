@@ -1,0 +1,2 @@
+Commit C4 lên nhánh master
+Commit C4 lần 2 lên nhánh master
